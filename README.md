@@ -1,2 +1,2 @@
 # HarpersWorld
-<http> Hello <http/>
+Hello
